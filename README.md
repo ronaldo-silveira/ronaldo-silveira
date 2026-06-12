@@ -2,7 +2,7 @@
 
 ### Engenheiro de Redes Sênior | Especialista em DDI & Infraestrutura de Redes
 
-Com mais de 21 years de experiência no mercado de Tecnologia da Informação, atuo de forma estratégica e prática no desenho, migração e suporte de infraestruturas de rede complexas, com sólida experiência em ambientes globais e de missão crítica (L3).
+Com mais de 21 anos de experiência no mercado de Tecnologia da Informação, atuo de forma estratégica e prática no desenho, migração e suporte de infraestruturas de rede complexas, com sólida experiência em ambientes globais e de missão crítica (L3).
 
 ---
 
