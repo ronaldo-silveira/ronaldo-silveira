@@ -58,7 +58,7 @@ With over 21 years of experience in the Information Technology market, I work st
 
 * **Networks and Infrastructure:** Cisco, Extreme Networks, BGP routing, LAN/WAN topologies and Datacenters.
 
-* **Automation & Tools:** Integrations via DDI APIs, technical documentation (Playbooks), infrastructure automation methodologies.
+* **Automation & Tools:** Integrations via DDI APIs, Technical Documentation (Playbooks), infrastructure automation methodologies.
 
 --
 
